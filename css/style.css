@@ -36,9 +36,7 @@
 
 *,
 *::before,
-home-slider owl-carousel{
-  max-height: 500px;
-}
+
 *::after {
   -webkit-box-sizing: border-box;
   box-sizing: border-box; }
